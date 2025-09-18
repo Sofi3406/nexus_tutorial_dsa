@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    #1
+    print(a // b)
+    #2
+    print( a / b)
