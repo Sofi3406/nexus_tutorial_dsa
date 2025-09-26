@@ -1,3 +1,8 @@
+# Lists
+# https://www.hackerrank.com/challenges/python-lists/problem
+
+
+
 if __name__ == '__main__':
     N = int(input())
     list_exercise = []
@@ -31,5 +36,5 @@ if __name__ == '__main__':
         elif op == "reverse":
             list_exercise.reverse()
 
-# Lists
-# https://www.hackerrank.com/challenges/python-lists/problem
+
+
