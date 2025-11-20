@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0316-remove-duplicate-letters) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
