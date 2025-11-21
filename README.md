@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0290-word-pattern) |
+## Array
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0047-permutations-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
