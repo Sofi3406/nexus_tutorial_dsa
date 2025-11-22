@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0043-multiply-strings) |
 | [0290-word-pattern](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0316-remove-duplicate-letters) |
 ## Stack
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0047-permutations-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Sofi3406/nexus_tutorial_dsa/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
